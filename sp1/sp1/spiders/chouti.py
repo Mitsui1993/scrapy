@@ -40,8 +40,8 @@ class ChoutiSpider(scrapy.Spider):
 
         #登录需要的post数据
         post_data = {
-            'phone':'8617677121725',
-            'password':'wbn123',
+            'phone':'861767712xxxx',
+            'password':'xxxx',
             'oneMonth':1,
         }
         import urllib.parse
